@@ -3,7 +3,8 @@
 
 - 📚 I’m currently learning **Java, Springboot, Python and SQL**;
 - 👁️‍🗨️ I’m PwD with Monocular Vision;
-- 🌱 I'm a vegetarian and I love to cook plant-based food.
+- 🌱 I'm a vegetarian and I love to cook plant-based food;
+- ♟️ I'm a enthusiastic chess player.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
